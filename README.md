@@ -17,15 +17,8 @@ This will create various files, and the augmented corpus will be saved to `agume
 
 Finally, we can encode the text using this sentencepiece model and train a regular language model with it.
 
-## Generation and filtering 
 
-Coming soon
-
-## Perplexity evaluation
-
-Coming soon
-
-##Publication
+## Publication
 
 If you use this code for academic research, please cite the PoeLM paper:
 
